@@ -1,5 +1,3 @@
----
-
 # 🛍️ Shopify PRD — UX + Functionality Fix Instructions for Osaz Store
 
 **Storefront**: [https://byosaz.com](https://byosaz.com)
